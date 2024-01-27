@@ -1,2 +1,2 @@
 # Github-demo
-Author - Aditi Joshi
+Author - Aditi Mahesh Joshi
